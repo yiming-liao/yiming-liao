@@ -91,7 +91,9 @@
     </div>
 </div>
 
-<!-- My tech stack -->
+<br/>
+
+<!-- My Stats -->
 <div>
     <h3 align="left">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="16" height="16" />
