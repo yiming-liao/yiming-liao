@@ -68,25 +68,25 @@
     </h3>
     <div align="left">
         <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-        <img width="12" />
+        <img width="4" />
         <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-        <img width="12" />
+        <img width="4" />
         <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-        <img width="12" />
+        <img width="4" />
         <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-        <img width="12" />
+        <img width="4" />
         <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-        <img width="12" />
+        <img width="4" />
         <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-        <img width="12" />
+        <img width="4" />
         <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-        <img width="12" />
+        <img width="4" />
         <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-        <img width="12" />
+        <img width="4" />
         <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-        <img width="12" />
+        <img width="4" />
         <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-        <img width="12" />
+        <img width="4" />
         <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
     </div>
 </div>
