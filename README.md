@@ -64,7 +64,7 @@
 <div>
     <h3 align="left">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="16" height="16" />
-        My Tech Stack
+        My go-to stack
     </h3>
     <div align="left">
         <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
