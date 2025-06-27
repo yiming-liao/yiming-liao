@@ -9,15 +9,17 @@
 
 <!-- Contact -->
 <div align="center">
-    <a href="mailto:ivancreate1997@gmail.com" >
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=444444&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/yiming-liao/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-    </a>
-    <a href="https://www.instagram.com/1van______/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
-    </a>
+  <a href="mailto:ivancreate1997@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="24" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yiming-liao/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="24" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/1van______/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="24" />
+  </a>
 </div>
 
 
