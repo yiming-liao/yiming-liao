@@ -38,7 +38,7 @@
 <div align="center">
     <sup>☕
          Just a code guy with perfectionism syndrome <br>
-         (and a caffeine addiction).
+         (and a caffeine addiction)
     </sup>
 </div>
 
