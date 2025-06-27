@@ -34,17 +34,32 @@
 
 <!-- About me -->
 <div align="center">
-    <i>☕
+    <sup>☕
          Just a code guy with perfectionism syndrome (and a caffeine addiction).
-    </i>
+    </sup>
 </div>
 
 <br>
-<!-- My tech stack -->
-<div>
-    <div align="center">
-     <sup> My Go-To Stack: </sup>&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ts,react,nextjs,express,prisma,postgres,redis,aws,nginx,tailwind,figma,cloudflare,docker" height="20" />
-    </div>
+
+<div align="center">
+     <sup> My Go-To Stack: </sup>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/AAAAAA" height="20" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/react/AAAAAA" height="20" alt="React" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/AAAAAA" height="20" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/express/AAAAAA" height="20" alt="Express" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/AAAAAA" height="20" alt="Prisma" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/AAAAAA" height="20" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/AAAAAA" height="20" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/redis/AAAAAA" height="20" alt="Redis" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/expo/AAAAAA" height="20" alt="Expo" />
 </div>
 
 <br/>
