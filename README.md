@@ -35,14 +35,17 @@
 <!-- About me -->
 <div align="center">
     <sup>☕
-         Just a code guy with perfectionism syndrome (and a caffeine addiction).
+         Just a code guy with perfectionism syndrome <br>
+         (and a caffeine addiction).
     </sup>
 </div>
 
 <br>
 
 <div align="center">
-     <sup> My Go-To Stack: </sup>&nbsp;&nbsp;
+     <sup> My Go-To Stack: </sup>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+     <br>
   <img src="https://cdn.simpleicons.org/typescript/AAAAAA" height="20" alt="TypeScript" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/react/AAAAAA" height="20" alt="React" />
