@@ -48,23 +48,23 @@
      <sup> My Go-To Stack: </sup>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
      <br>
-  <img src="https://cdn.simpleicons.org/typescript/AAAAAA" height="20" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/typescript/AAAAAA" height="20" width="20" alt="TypeScript" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/react/AAAAAA" height="20" alt="React" />
+  <img src="https://cdn.simpleicons.org/react/AAAAAA" height="20" width="20" alt="React" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/AAAAAA" height="20" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/AAAAAA" height="20" width="20" alt="Next.js" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/express/AAAAAA" height="20" alt="Express" />
+  <img src="https://cdn.simpleicons.org/express/AAAAAA" height="20" width="20" alt="Express" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/prisma/AAAAAA" height="20" alt="Prisma" />
+  <img src="https://cdn.simpleicons.org/prisma/AAAAAA" height="20" width="20" alt="Prisma" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/AAAAAA" height="20" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/postgresql/AAAAAA" height="20" width="20" alt="PostgreSQL" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/AAAAAA" height="20" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/docker/AAAAAA" height="20" width="20" alt="Docker" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/redis/AAAAAA" height="20" alt="Redis" />
+  <img src="https://cdn.simpleicons.org/redis/AAAAAA" height="20" width="20" alt="Redis" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/expo/AAAAAA" height="20" alt="Expo" />
+  <img src="https://cdn.simpleicons.org/expo/AAAAAA" height="20" width="20" alt="Expo" />
 </div>
 
 <br/>
