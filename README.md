@@ -26,12 +26,6 @@
 
 ###
 
-<!-- Visitors -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yiming-liao.yiming-liao&left_color=black&right_color=black"  />
-</div>
-
-<br/>
 
 
 <!-- About me -->
