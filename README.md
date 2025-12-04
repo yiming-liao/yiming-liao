@@ -10,11 +10,9 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=161616&logoColor=white&style=for-the-badge" height="24" />
   </a>
   &nbsp;
-  &nbsp;
   <a href="https://www.linkedin.com/in/yiming-liao/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=161616&logoColor=white&style=for-the-badge" height="24" />
   </a>
-  &nbsp;
   &nbsp;
   <a href="https://www.instagram.com/1van______/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=161616&logoColor=white&style=for-the-badge" height="24" />
