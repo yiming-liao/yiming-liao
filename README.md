@@ -2,6 +2,8 @@
      <img src="https://badgen.net/badge/Currently Based in/Bangkok/000000?labelColor=000000" height="18" />
 </div>
 
+<br/>
+
 <!-- About me -->
 <div align="center">
     <p>☕
