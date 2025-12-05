@@ -1,40 +1,19 @@
 <div align="center">
-     <sub>Currently Based in <strong>Bangkok</strong></sub>
+     <img src="https://badgen.net/badge/Currently Based in/Bangkok/000000?labelColor=000000" height="18" />
 </div>
-
-###
 
 <!-- About me -->
 <div align="center">
-    <sup>☕
+    <p>☕
          Just a code guy with perfectionism syndrome <br>
-         (and a caffeine addiction)
-    </sup>
+         <i>(and a caffeine addiction)</i>
+    </p>
 </div>
-
-<br>
 
 <div align="center">
-     <sup> My Go-To Stack: </sup>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-     <br>
+     <sup>I speak in: </sup>
+     &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/aaaaaa" height="20" width="20" alt="TypeScript" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/react/aaaaaa" height="20" width="20" alt="React" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/aaaaaa" height="20" width="20" alt="Next.js" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/fastify/aaaaaa" height="20" width="20" alt="Express" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/prisma/aaaaaa" height="20" width="20" alt="Prisma" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/aaaaaa" height="20" width="20" alt="PostgreSQL" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/aaaaaa" height="20" width="20" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/redis/aaaaaa" height="20" width="20" alt="Redis" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/expo/aaaaaa" height="20" width="20" alt="Expo" />
+  <img src="https://cdn.simpleicons.org/python/aaaaaa" height="20" width="20" alt="Python" />
 </div>
-
-<br/>
