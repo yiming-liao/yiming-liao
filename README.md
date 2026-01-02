@@ -6,10 +6,10 @@
 
 <!-- About me -->
 <div align="center">
-    <p>☕
+    <sup>☕
          Just a code guy with perfectionism syndrome <br>
          <i>(and a caffeine addiction)</i>
-    </p>
+    </sup>
 </div>
 
 <div align="center">
